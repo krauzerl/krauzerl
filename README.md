@@ -1,9 +1,3 @@
-Hi, I’m @krauzerl
-I’m interested in computer science
-I’m currently learning Python
-How to reach me jacek.bajer.priv@gmail.com
-
-<!---
-krauzerl/krauzerl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;" />
+</h1>
