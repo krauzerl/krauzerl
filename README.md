@@ -30,10 +30,10 @@
 <br>
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krauzerl)](https://github.com/krauerl/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krauzerl&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl)](https://github.com/krauzerl/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&langs_count=8)
 
