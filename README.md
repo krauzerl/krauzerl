@@ -20,6 +20,10 @@
   </div>
 
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  <div align="center">
+    <img src=file:///C:/Users/krauzer/Downloads/DALL%C2%B7E%202024-02-22%2015.32.50%20-%20Design%20a%20cool,%20futuristic%20background%20image%20suitable%20for%20a%20GitHub%20account,%20focusing%20on%20the%20theme%20of%20future%20technology%20in%20computer%20science.%20Incorporate%20.webp alt="Opis obrazka">
+    <br>
+</div>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,github,vscode,linkedin,discord" />
