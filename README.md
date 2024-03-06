@@ -7,7 +7,7 @@
 <div align="center">
  
  
-    🔭 I’m currently learning Python, Cybersecurity
+    🔭 I’m currently learning Python, 
 
  </div>
  <div align="center"> 
