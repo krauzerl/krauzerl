@@ -19,7 +19,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-![tryhackme stats](https://raw.githubusercontent.com/<krauzerl>/<krauzerl>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/krauzerl/krauzerl/master/assets/thm_propic.png)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,github,vscode,linkedin,discord" />
