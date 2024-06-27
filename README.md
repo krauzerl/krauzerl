@@ -19,10 +19,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-<div align="center">
-    <script src="https://tryhackme.com/badge/3215831"></script>
-</div>
- <script src="https://tryhackme.com/badge/3215831"></script>
+![TryHackMe Badge](https://raw.githubusercontent.com/Twoje_Użytkownik_TryHackMe/Twoje_Użytkownik_TryHackMe/main/assets/thm_propic.png)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,github,vscode,linkedin,discord" />
