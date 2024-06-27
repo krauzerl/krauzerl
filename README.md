@@ -21,7 +21,8 @@
 
   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
   <div align="center">
-    <img src=https://raw.githubusercontent.com/krauzerl/krauzerl/main/DALL%C2%B7E%202024-02-22%2015.38.33%20-%20Combine%20the%20futuristic%20and%20sleek%20design%20elements%20of%20the%20first%20background%20image%20with%20the%20modern%2C%20programming-focused%20aesthetics%20of%20the%20binary%20code%20and%20.webp alt="">
+    <script src="https://tryhackme.com/badge/3215831"></script>
+
     <br>
 </div>
 <br/>
