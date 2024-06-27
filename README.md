@@ -30,18 +30,4 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats-seven-jet-80.vercel.app/api?username=krauzerl&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats-seven-jet-80.vercel.app/api/top-langs/?username=krauzerl&langs_count=8)
-    ![](https://komarev.com/ghpvc/?username=krauzerl)
-</div>
 
-
-
-
-![Top Langs](https://github-readme-stats-seven-jet-80.vercel.app/api/top-langs/?username=krauzerl&langs_count=8)
-
-![](https://komarev.com/ghpvc/?username=krauzerl)
-</div>
-
-<br/><br/>
