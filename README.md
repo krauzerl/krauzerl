@@ -22,6 +22,7 @@
 <div align="center">
     <script src="https://tryhackme.com/badge/3215831"></script>
 </div>
+ <script src="https://tryhackme.com/badge/3215831"></script>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,github,vscode,linkedin,discord" />
