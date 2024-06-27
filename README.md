@@ -19,7 +19,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-[![p4p1's tryhackme stats](https://raw.githubusercontent.com/jacek.b/jacek.b/master/assets/thm_propic.png)][tryhackme]
+[![krauzerl tryhackme stats](https://raw.githubusercontent.com/krauzerl/krauzerl/master/assets/thm_propic.png)][tryhackme]
 
 
 <div align="center">
