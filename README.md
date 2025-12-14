@@ -27,5 +27,6 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+[![krauzerl GitHub stats](https://github-readme-stats.vercel.app/api?username=krauzerl)](https://github.com/anuraghazra/github-readme-stats)
 
 
