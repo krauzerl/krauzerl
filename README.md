@@ -11,7 +11,8 @@ Computer Science student currently learning Python, Machine Learning, and AI.<br
 ![](https://github-readme-stats.vercel.app/api?username=krauzerl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=krauzerl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+# LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Krauzerl)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krauzerl&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
