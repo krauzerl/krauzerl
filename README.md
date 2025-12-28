@@ -12,7 +12,6 @@ Computer Science student currently learning Python, Machine Learning, and AI.<br
 ![](https://nirzak-streak-stats.vercel.app/?user=krauzerl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&stats_format=bytes)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krauzerl&layout=compact)
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=krauzerl&show_icons=true&theme=transparent)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krauzerl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -23,6 +22,8 @@ Computer Science student currently learning Python, Machine Learning, and AI.<br
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krauzerl&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=krauzerl&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=krauzerl&icon=0&color=0)](https://visitcount.itsvg.in)
 
