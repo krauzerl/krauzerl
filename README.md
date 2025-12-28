@@ -11,7 +11,7 @@ Computer Science student currently learning Python, Machine Learning, and AI.<br
 ![](https://github-readme-stats.vercel.app/api?username=krauzerl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=krauzerl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krauzerl&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzerl&stats_format=bytes)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krauzerl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
